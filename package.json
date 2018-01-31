@@ -1,0 +1,24 @@
+{
+  "name": "post",
+  "version": "0.0.0",
+  "description": "",
+  "devDependencies": {
+    "lerna": "^2.8.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/post/post.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/post/post/issues"
+  },
+  "homepage": "https://github.com/post/post#readme",
+
+}
